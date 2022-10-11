@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    height: 400px;
+  }
+  
+  .shark-3 {
+    bottom: 1rem;
+    align-self: flex-end;
+  }
